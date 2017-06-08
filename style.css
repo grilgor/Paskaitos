@@ -1,0 +1,20 @@
+.bord {
+
+    background-color: lawngreen;
+    border: solid 10px navy;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    outline: solid 15px green;
+    margin-top: 20px;
+}
+
+p.m2 {
+    font-style: Bold;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 350px;
+    /*or margin-top: 200px; */
+
+}
